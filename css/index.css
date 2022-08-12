@@ -1,0 +1,16 @@
+nav{
+    background-color: #3c3939;
+    font-size: 36px;
+    padding: 10px 0;
+}
+a{
+    text-decoration: none;
+    color:#ccc;
+    padding: 10px;
+}
+a:first-child{
+    background-color: dodgerblue;
+}
+a:hover{
+    background-color: tomato;
+}
